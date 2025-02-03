@@ -156,4 +156,3 @@ This interface allows you to view, test, and understand all API endpoints, inclu
 - Built with Node.js, Express, and MongoDB.
 - API documentation provided by Swagger.
 - Contributions and feedback are welcome!
-```
